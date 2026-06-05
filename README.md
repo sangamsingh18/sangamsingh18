@@ -321,7 +321,7 @@ Focus       :  AI/ML | LLM | RAG | Data Engineering
 
 <div align="center">
 
-<a href="https://leetcode.com/sangamsingh18/" target="_blank">
+<a href="https://leetcode.com/u/sangam__singh_/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/sangamsingh18?theme=dark&font=Nunito&ext=heatmap&border=0" alt="LeetCode Stats"/>
 </a>
 
