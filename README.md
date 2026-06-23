@@ -26,7 +26,7 @@
 <a href="https://sangam18.in" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>&nbsp;
-<a href="https://leetcode.com/sangamsingh18/" target="_blank">
+<a href="https://leetcode.com/u/sangam__singh_/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
