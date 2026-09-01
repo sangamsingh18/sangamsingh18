@@ -55,7 +55,7 @@
 Name        :  Sangam Singh
 Location    :  Vadodara, Gujarat, India
 Education   :  B.Tech CSE @ Parul University (2023 - 2027)
-CGPA        :  8.15 / 10
+CGPA        :  8.25 / 10
 Contact     :  singhsangam1800@gmail.com
 Portfolio   :  sangam18.in
 Focus       :  AI/ML | LLM | RAG | Data Engineering
@@ -82,7 +82,7 @@ Focus       :  AI/ML | LLM | RAG | Data Engineering
   <img src="https://img.shields.io/badge/Parul%20University-B.Tech%20CSE-7F00FF?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Parul University"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/CGPA-8.15%20%2F%2010-22C55E?style=for-the-badge&logo=bookstack&logoColor=white" alt="CGPA"/>
+<img src="https://img.shields.io/badge/CGPA-8.25%20%2F%2010-22C55E?style=for-the-badge&logo=bookstack&logoColor=white" alt="CGPA"/>
 &nbsp;
 <img src="https://img.shields.io/badge/2023--2027-Expected%20May%202027-E100FF?style=for-the-badge&logo=calendar&logoColor=white" alt="Duration"/>
 
