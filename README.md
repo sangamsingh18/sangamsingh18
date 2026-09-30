@@ -10,7 +10,7 @@
 <img src="./about-life.svg?v=5" width="100%" alt="About Sangam Singh"/>
 <img src="./stack.svg?v=5" width="100%" alt="Sangam Singh technology stack"/>
 <img src="./id-dashboard.svg?v=5" width="100%" alt="Live developer dashboard"/>
-<img src="./leetcode.svg?v=5" width="100%" alt="LeetCode contribution heatmap"/>
+<a href="https://leetcode.com/u/sangam__singh_/"><img src="https://leetcard.jacoblin.cool/sangam__singh_?theme=dark&ext=heatmap" width="100%" alt="Sangam Singh LeetCode statistics and submission heatmap"/></a>
 
 </div>
 
