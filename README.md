@@ -1,66 +1,84 @@
 <div align="center">
 
-<img src="./hero.svg?v=2" alt="Sangam Singh — Data Science, ML, AI and Full-Stack Developer" width="100%"/>
+<img src="./hero.svg?v=1" width="100%" alt="Sangam Singh animated hero"/>
 
-<br/><br/>
+<img src="./about-life.svg?v=1" width="100%" alt="About Sangam Singh"/>
 
-<img src="./about-life.svg?v=2" alt="About Sangam Singh and life beyond code" width="100%"/>
+<img src="./stack.svg?v=1" width="100%" alt="Sangam Singh technology stack"/>
 
-<br/><br/>
-
-<img src="./stack.svg?v=2" alt="Sangam Singh technology stack" width="100%"/>
-
-<br/><br/>
-
-<img src="./id-dashboard.svg?v=2" alt="Sangam Singh developer ID and dashboard" width="100%"/>
-
-<br/><br/>
+<img src="./id-dashboard.svg?v=1" width="100%" alt="Developer dashboard"/>
 
 </div>
 
-## 🚀 Featured Builds
+## 🚀 Featured Projects
 
-| Project | What it is | Stack |
-|:---|:---|:---|
-| [**Datalytics AI**](https://github.com/sangamsingh18/Datalytics-AI-An-End-to-End-Intelligent-Data-Analytics-and-Machine-Learning-Platform) | AI-powered analytics and AutoML platform with EDA, visualization, model training, prediction and AI-generated reports. | `React` `FastAPI` `Python` `Pandas` `Scikit-learn` `Plotly` |
-| [**ApnaCoach**](https://github.com/sangamsingh18/ApnaCoach-AI-Powered-Interview-Practice-Placement-Preparation-Platform) | AI mock-interview and career-readiness platform with ATS scoring, assessments, reports and personalized study plans. | `React` `Node.js` `Groq AI` `Firebase` `Razorpay` |
-| [**InsightRAG**](https://github.com/sangamsingh18/-InsightRAG--Chat-with-GitHub-Repositories-PDFs-and-YouTube-Content) | Multi-source RAG assistant for GitHub repositories, YouTube transcripts and PDF documents. | `Python` `LangChain` `ChromaDB` `Supabase` `Streamlit` |
-| **Healthcare Smart OPD** | AI-assisted healthcare management concept covering appointments, patient records, medical reports and intelligent assistance. | `React` `Node.js` `Express` `MongoDB` `ML` `GenAI` |
-| **SyncTYPE** | Chrome extension that auto-fills college, job and registration forms through rule-based field matching. | `JavaScript` `Manifest V3` `HTML` `CSS` |
+| Project | Description | Stack |
+|---|---|---|
+| **Datalytics AI** | Intelligent analytics and AutoML platform with scalable ingestion, model selection and AI-generated insights. | React, FastAPI, Python, Scikit-learn, Groq, MongoDB, Docker |
+| **ApnaCoach** | AI mock interviews, ATS resume scoring, assessments, PDF reports and personalized study schedules. | React, Node.js, Groq AI, Firebase, Razorpay |
+| **InsightRAG** | Multi-source RAG assistant for GitHub repositories, YouTube transcripts and PDFs with ChromaDB + Supabase. | Python, LangChain, ChromaDB, Supabase, Streamlit, LLaMA 3.3 |
+| **SyncTYPE** | Chrome extension that auto-fills college, job and registration forms using rule-based field matching. | JavaScript, Manifest V3, HTML, CSS |
+
+### 🎓 Education & Experience
+
+- **B.Tech — Computer Science & Engineering**, Parul University, 2023–2027 expected, **CGPA 8.15/10**.
+- **Admission Assistant & Marketing Intern — Parul University**, Mar 2025–Nov 2025. Processed 100+ applications, built enrollment dashboards and supported outreach.
+
+### 🏆 Certifications
+
+Deloitte Australia Data Analytics Virtual Experience • AWS Academy Cloud Foundations • SQL Intermediate (HackerRank) • Computer Networks and Internet Protocol (NPTEL) • Salesforce Administrator (ADM-201)
+
+### 📊 Coding
+
+**600+ DSA problems** • **1700+ peak LeetCode Contest Rating**
 
 <div align="center">
-
-<br/>
-
-## 🌃 My Contribution City
-
-*Every commit builds another tower — regenerated automatically by GitHub Actions.*
-
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
-
-<br/><br/>
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/sangamsingh18/sangamsingh18/output/github-snake.svg" alt="GitHub contribution snake" width="100%"/>
-
-<br/><br/>
-
-<img src="./connect.svg?v=2" alt="Let's connect with Sangam" width="100%"/>
-
-<a href="https://github.com/sangamsingh18"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
-<a href="mailto:singhsangam1800@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/sangam-singh-94a52633b"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0d0e16" alt="LinkedIn"/></a>
-<a href="https://sangam18.in"><img src="https://img.shields.io/badge/Portfolio-34d399?style=for-the-badge&logo=google-chrome&logoColor=0d0e16" alt="Portfolio"/></a>
-<a href="https://codolio.com/profile/sangam_singh_"><img src="https://img.shields.io/badge/Codolio-fbbf24?style=for-the-badge&logo=code&logoColor=0d0e16" alt="Codolio"/></a>
-<a href="https://leetcode.com/u/sangam__singh_/"><img src="https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=0d0e16" alt="LeetCode"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sangamsingh18&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/>
-
-**Always learning. Always building.** 💜
+<img src="./connect.svg?v=1" width="100%" alt="Connect with Sangam"/>
 
 </div>
+
+## 🌃 3D Contribution City
+
+<div align="center">
+<img src="./profile-3d-contrib/profile-night-view.svg?v=1" width="100%" alt="3D contribution city"/>
+</div>
+
+> **Note:** The supplied resumes do not specify personal hobbies, so the “Beyond Code” panel uses documented interests—problem solving, AI experimentation and developer tooling—instead of inventing hobbies.
+
+### Links
+
+[GitHub](https://github.com/sangamsingh18) · [LinkedIn](https://www.linkedin.com/in/sangam-singh-94a52633b) · [Portfolio](https://sangam18.in) · [Codolio](https://codolio.com/profile/sangam_singh_) · [LeetCode](https://leetcode.com/u/sangam__singh_/) · [Email](mailto:singhsangam1800@gmail.com)
+
+### Automated contribution city
+
+```yaml
+# .github/workflows/profile-3d.yml
+name: 3D contribution city
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: sangamsingh18
+      - name: Commit generated city
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A
+          git commit -m "generated 3d contribution city" || exit 0
+          git push
+```
