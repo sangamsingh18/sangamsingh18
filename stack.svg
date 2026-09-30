@@ -1,77 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560">
-<defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b0d17"/><stop offset="1" stop-color="#111425"/></linearGradient>
-<linearGradient id="line" x1="0" x2="1"><stop stop-color="#a78bfa"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#34d399"/></linearGradient>
-<style>
-.title{font:14px Consolas,monospace;letter-spacing:2px}.sub{font:13px Consolas,monospace}.h{font:bold 16px Arial}.item{font:14px Arial}.muted{fill:#8d93ab}
-.card{fill:#0a0f1d;stroke:#29304a;stroke-width:1.2}.dot{fill:#34d399}
-</style>
-</defs>
-<rect width="1280" height="560" rx="24" fill="url(#bg)"/>
-<rect x="24" y="24" width="1232" height="512" rx="22" fill="none" stroke="url(#line)" stroke-opacity=".42"/>
-<text x="58" y="62" class="title" fill="#a78bfa">// TECH STACK</text>
-<text x="58" y="91" class="sub muted">Tools I build with</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="650" viewBox="0 0 1280 650">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090c16"/><stop offset="1" stop-color="#12162a"/></linearGradient><linearGradient id="edge" x1="0" x2="1"><stop stop-color="#8b5cf6"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#34d399"/></linearGradient><style>.h{font:700 24px Arial}.m{font:12px Consolas,monospace;letter-spacing:1.5px}.t{font:700 14px Arial}.s{font:12px Arial}.muted{fill:#8d93ab}</style></defs>
+<rect width="1280" height="650" rx="28" fill="url(#bg)"/><rect x="24" y="24" width="1232" height="602" rx="24" fill="none" stroke="url(#edge)" stroke-opacity=".4"/>
+<text x="58" y="64" class="m" fill="#a78bfa">// INDUSTRY STACK</text><text x="58" y="100" class="h" fill="#eef2ff">Technologies I build with</text><text x="58" y="126" class="s muted">AI • data • backend • frontend • cloud • developer tooling</text>
 
-<!-- Row 1 -->
-<rect class="card" x="58" y="120" width="278" height="150" rx="16"/>
-<circle class="dot" cx="84" cy="148" r="5"/>
-<text x="100" y="153" class="h" fill="#eceef6">PROGRAMMING</text>
-<text x="82" y="188" class="item" fill="#e2e8f0">Python</text>
-<text x="82" y="216" class="item" fill="#e2e8f0">C++</text>
-<text x="82" y="244" class="item" fill="#e2e8f0">JavaScript</text>
-
-<rect class="card" x="354" y="120" width="278" height="150" rx="16"/>
-<circle cx="380" cy="148" r="5" fill="#22d3ee"/>
-<text x="396" y="153" class="h" fill="#eceef6">DATA &amp; ML</text>
-<text x="378" y="188" class="item" fill="#e2e8f0">Pandas • NumPy</text>
-<text x="378" y="216" class="item" fill="#e2e8f0">Scikit-learn</text>
-<text x="378" y="244" class="item" fill="#e2e8f0">Matplotlib • Plotly</text>
-
-<rect class="card" x="650" y="120" width="278" height="150" rx="16"/>
-<circle cx="676" cy="148" r="5" fill="#f472b6"/>
-<text x="692" y="153" class="h" fill="#eceef6">DEEP LEARNING</text>
-<text x="674" y="188" class="item" fill="#e2e8f0">TensorFlow • Keras</text>
-<text x="674" y="216" class="item" fill="#e2e8f0">PyTorch</text>
-<text x="674" y="244" class="item" fill="#e2e8f0">Model Training</text>
-
-<rect class="card" x="946" y="120" width="276" height="150" rx="16"/>
-<circle cx="972" cy="148" r="5" fill="#34d399"/>
-<text x="988" y="153" class="h" fill="#eceef6">WEB &amp; APIs</text>
-<text x="970" y="188" class="item" fill="#e2e8f0">React • Node.js</text>
-<text x="970" y="216" class="item" fill="#e2e8f0">Express • FastAPI</text>
-<text x="970" y="244" class="item" fill="#e2e8f0">REST APIs</text>
-
-<!-- Row 2 -->
-<rect class="card" x="58" y="292" width="278" height="150" rx="16"/>
-<circle cx="84" cy="320" r="5" fill="#fbbf24"/>
-<text x="100" y="325" class="h" fill="#eceef6">DATABASES</text>
-<text x="82" y="360" class="item" fill="#e2e8f0">MongoDB</text>
-<text x="82" y="388" class="item" fill="#e2e8f0">MySQL • SQL</text>
-<text x="82" y="416" class="item" fill="#e2e8f0">Data Modeling</text>
-
-<rect class="card" x="354" y="292" width="278" height="150" rx="16"/>
-<circle cx="380" cy="320" r="5" fill="#f472b6"/>
-<text x="396" y="325" class="h" fill="#eceef6">GENAI &amp; RAG</text>
-<text x="378" y="360" class="item" fill="#e2e8f0">LLMs • RAG</text>
-<text x="378" y="388" class="item" fill="#e2e8f0">LangChain</text>
-<text x="378" y="416" class="item" fill="#e2e8f0">Vector Search</text>
-
-<rect class="card" x="650" y="292" width="278" height="150" rx="16"/>
-<circle cx="676" cy="320" r="5" fill="#60a5fa"/>
-<text x="692" y="325" class="h" fill="#eceef6">DEV TOOLS</text>
-<text x="674" y="360" class="item" fill="#e2e8f0">Git • GitHub</text>
-<text x="674" y="388" class="item" fill="#e2e8f0">Docker</text>
-<text x="674" y="416" class="item" fill="#e2e8f0">VS Code • APIs</text>
-
-<rect class="card" x="946" y="292" width="276" height="150" rx="16"/>
-<circle cx="972" cy="320" r="5" fill="#a78bfa"/>
-<text x="988" y="325" class="h" fill="#eceef6">CLOUD &amp; ANALYTICS</text>
-<text x="970" y="360" class="item" fill="#e2e8f0">AWS Basics</text>
-<text x="970" y="388" class="item" fill="#e2e8f0">Power BI • Excel</text>
-<text x="970" y="416" class="item" fill="#e2e8f0">Dashboards</text>
-
-<text x="58" y="485" class="sub" fill="#67e8f9">&gt; focus</text>
-<text x="125" y="485" class="sub" fill="#eceef6">Production-minded AI • scalable APIs • RAG pipelines • useful data products</text>
-<rect x="58" y="510" width="1100" height="2" rx="1" fill="url(#line)" opacity=".35"/>
-<circle cx="1180" cy="511" r="5" fill="#34d399"/>
+<g><rect x="58" y="160" width="272" height="174" rx="18" fill="#0c1121" stroke="#29304a"/><circle cx="82" cy="187" r="6" fill="#22d3ee"/><text x="98" y="192" class="m" fill="#eef2ff">LANGUAGES</text><rect x="78" y="214" width="232" height="18" rx="9" fill="#121a2b"/><text x="90" y="227" class="s" fill="#dbe4ff">Python</text><rect x="78" y="236" width="232" height="18" rx="9" fill="#121a2b"/><text x="90" y="249" class="s" fill="#dbe4ff">C++</text><rect x="78" y="258" width="232" height="18" rx="9" fill="#121a2b"/><text x="90" y="271" class="s" fill="#dbe4ff">JavaScript</text><rect x="78" y="280" width="232" height="18" rx="9" fill="#121a2b"/><text x="90" y="293" class="s" fill="#dbe4ff">SQL</text><rect x="78" y="302" width="232" height="18" rx="9" fill="#121a2b"/><text x="90" y="315" class="s" fill="#dbe4ff">Java</text></g><g><rect x="354" y="160" width="272" height="174" rx="18" fill="#0c1121" stroke="#29304a"/><circle cx="378" cy="187" r="6" fill="#34d399"/><text x="394" y="192" class="m" fill="#eef2ff">DATA & ML</text><rect x="374" y="214" width="232" height="18" rx="9" fill="#121a2b"/><text x="386" y="227" class="s" fill="#dbe4ff">Pandas</text><rect x="374" y="236" width="232" height="18" rx="9" fill="#121a2b"/><text x="386" y="249" class="s" fill="#dbe4ff">NumPy</text><rect x="374" y="258" width="232" height="18" rx="9" fill="#121a2b"/><text x="386" y="271" class="s" fill="#dbe4ff">Scikit-learn</text><rect x="374" y="280" width="232" height="18" rx="9" fill="#121a2b"/><text x="386" y="293" class="s" fill="#dbe4ff">Matplotlib</text><rect x="374" y="302" width="232" height="18" rx="9" fill="#121a2b"/><text x="386" y="315" class="s" fill="#dbe4ff">Plotly</text></g><g><rect x="650" y="160" width="272" height="174" rx="18" fill="#0c1121" stroke="#29304a"/><circle cx="674" cy="187" r="6" fill="#f472b6"/><text x="690" y="192" class="m" fill="#eef2ff">DEEP LEARNING</text><rect x="670" y="214" width="232" height="18" rx="9" fill="#121a2b"/><text x="682" y="227" class="s" fill="#dbe4ff">TensorFlow</text><rect x="670" y="236" width="232" height="18" rx="9" fill="#121a2b"/><text x="682" y="249" class="s" fill="#dbe4ff">Keras</text><rect x="670" y="258" width="232" height="18" rx="9" fill="#121a2b"/><text x="682" y="271" class="s" fill="#dbe4ff">PyTorch</text><rect x="670" y="280" width="232" height="18" rx="9" fill="#121a2b"/><text x="682" y="293" class="s" fill="#dbe4ff">NLP</text><rect x="670" y="302" width="232" height="18" rx="9" fill="#121a2b"/><text x="682" y="315" class="s" fill="#dbe4ff">Computer Vision</text></g><g><rect x="946" y="160" width="272" height="174" rx="18" fill="#0c1121" stroke="#29304a"/><circle cx="970" cy="187" r="6" fill="#a78bfa"/><text x="986" y="192" class="m" fill="#eef2ff">GENAI / RAG</text><rect x="966" y="214" width="232" height="18" rx="9" fill="#121a2b"/><text x="978" y="227" class="s" fill="#dbe4ff">LLMs</text><rect x="966" y="236" width="232" height="18" rx="9" fill="#121a2b"/><text x="978" y="249" class="s" fill="#dbe4ff">LangChain</text><rect x="966" y="258" width="232" height="18" rx="9" fill="#121a2b"/><text x="978" y="271" class="s" fill="#dbe4ff">RAG</text><rect x="966" y="280" width="232" height="18" rx="9" fill="#121a2b"/><text x="978" y="293" class="s" fill="#dbe4ff">ChromaDB</text><rect x="966" y="302" width="232" height="18" rx="9" fill="#121a2b"/><text x="978" y="315" class="s" fill="#dbe4ff">Vector Search</text></g><g><rect x="58" y="360" width="272" height="174" rx="18" fill="#0c1121" stroke="#29304a"/><circle cx="82" cy="387" r="6" fill="#60a5fa"/><text x="98" y="392" class="m" fill="#eef2ff">WEB / BACKEND</text><rect x="78" y="414" width="232" height="18" rx="9" fill="#121a2b"/><text x="90" y="427" class="s" fill="#dbe4ff">React</text><rect x="78" y="436" width="232" height="18" rx="9" fill="#121a2b"/><text x="90" y="449" class="s" fill="#dbe4ff">Node.js</text><rect x="78" y="458" width="232" height="18" rx="9" fill="#121a2b"/><text x="90" y="471" class="s" fill="#dbe4ff">Express</text><rect x="78" y="480" width="232" height="18" rx="9" fill="#121a2b"/><text x="90" y="493" class="s" fill="#dbe4ff">FastAPI</text><rect x="78" y="502" width="232" height="18" rx="9" fill="#121a2b"/><text x="90" y="515" class="s" fill="#dbe4ff">REST APIs</text></g><g><rect x="354" y="360" width="272" height="174" rx="18" fill="#0c1121" stroke="#29304a"/><circle cx="378" cy="387" r="6" fill="#fbbf24"/><text x="394" y="392" class="m" fill="#eef2ff">DATABASES</text><rect x="374" y="414" width="232" height="18" rx="9" fill="#121a2b"/><text x="386" y="427" class="s" fill="#dbe4ff">MongoDB</text><rect x="374" y="436" width="232" height="18" rx="9" fill="#121a2b"/><text x="386" y="449" class="s" fill="#dbe4ff">MySQL</text><rect x="374" y="458" width="232" height="18" rx="9" fill="#121a2b"/><text x="386" y="471" class="s" fill="#dbe4ff">SQL</text><rect x="374" y="480" width="232" height="18" rx="9" fill="#121a2b"/><text x="386" y="493" class="s" fill="#dbe4ff">Supabase</text><rect x="374" y="502" width="232" height="18" rx="9" fill="#121a2b"/><text x="386" y="515" class="s" fill="#dbe4ff">Data Modeling</text></g><g><rect x="650" y="360" width="272" height="174" rx="18" fill="#0c1121" stroke="#29304a"/><circle cx="674" cy="387" r="6" fill="#34d399"/><text x="690" y="392" class="m" fill="#eef2ff">CLOUD / DEVOPS</text><rect x="670" y="414" width="232" height="18" rx="9" fill="#121a2b"/><text x="682" y="427" class="s" fill="#dbe4ff">AWS</text><rect x="670" y="436" width="232" height="18" rx="9" fill="#121a2b"/><text x="682" y="449" class="s" fill="#dbe4ff">Docker</text><rect x="670" y="458" width="232" height="18" rx="9" fill="#121a2b"/><text x="682" y="471" class="s" fill="#dbe4ff">Git</text><rect x="670" y="480" width="232" height="18" rx="9" fill="#121a2b"/><text x="682" y="493" class="s" fill="#dbe4ff">GitHub</text><rect x="670" y="502" width="232" height="18" rx="9" fill="#121a2b"/><text x="682" y="515" class="s" fill="#dbe4ff">CI/CD</text></g><g><rect x="946" y="360" width="272" height="174" rx="18" fill="#0c1121" stroke="#29304a"/><circle cx="970" cy="387" r="6" fill="#ec4899"/><text x="986" y="392" class="m" fill="#eef2ff">ANALYTICS</text><rect x="966" y="414" width="232" height="18" rx="9" fill="#121a2b"/><text x="978" y="427" class="s" fill="#dbe4ff">Power BI</text><rect x="966" y="436" width="232" height="18" rx="9" fill="#121a2b"/><text x="978" y="449" class="s" fill="#dbe4ff">Excel</text><rect x="966" y="458" width="232" height="18" rx="9" fill="#121a2b"/><text x="978" y="471" class="s" fill="#dbe4ff">Dashboards</text><rect x="966" y="480" width="232" height="18" rx="9" fill="#121a2b"/><text x="978" y="493" class="s" fill="#dbe4ff">EDA</text><rect x="966" y="502" width="232" height="18" rx="9" fill="#121a2b"/><text x="978" y="515" class="s" fill="#dbe4ff">Data Viz</text></g>
+<text x="58" y="595" class="m" fill="#67e8f9">&gt; ENGINEERING PRINCIPLE</text><text x="255" y="595" class="s" fill="#eef2ff">clean interfaces • observable systems • reproducible ML • useful products</text>
 </svg>
