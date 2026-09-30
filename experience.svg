@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 330">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#8b5cf6"/><stop offset=".5" stop-color="#ec4899"/><stop offset="1" stop-color="#22d3ee"/></linearGradient><style>.h{font:700 25px Arial}.m{font:12px Consolas,monospace;letter-spacing:1.4px}.s{font:13px Arial}.muted{fill:#8d93ab}.card{fill:#0b1020;stroke:#29304a}.dot{animation:p 1.6s infinite}@keyframes p{50%{r:4;opacity:.4}}</style></defs>
+<rect width="1280" height="330" rx="28" fill="#080b14"/><rect x="24" y="24" width="1232" height="282" rx="24" fill="#111527" stroke="url(#g)" stroke-opacity=".5"/>
+<text x="58" y="64" class="m" fill="#34d399">// EXPERIENCE</text><text x="58" y="101" class="h" fill="#eef2ff">Hands-on work</text>
+<line x1="88" y1="142" x2="88" y2="255" stroke="#29304a" stroke-width="3"/><circle cx="88" cy="154" r="7" fill="#34d399" class="dot"/>
+<rect x="118" y="120" width="1090" height="145" rx="20" class="card"/>
+<text x="148" y="153" class="m" fill="#22d3ee">MAR 2025 — NOV 2025</text><text x="148" y="184" class="h" fill="#eef2ff">Admission Assistant &amp; Marketing Intern</text><text x="148" y="210" class="s" fill="#a78bfa">Parul University • Vadodara, Gujarat</text>
+<text x="148" y="238" class="s muted">100+ applications • 40% faster response time • enrollment dashboards</text><text x="148" y="258" class="s muted">500+ prospective students • 25% higher qualified inquiry volume</text>
+</svg>
