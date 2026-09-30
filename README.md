@@ -1,12 +1,26 @@
 <div align="center">
 
-<img src="./hero.svg?v=4" width="100%" alt="Sangam Singh animated developer profile"/>
-<img src="./about-life.svg?v=4" width="100%" alt="About Sangam Singh"/>
-<img src="./stack.svg?v=4" width="100%" alt="Sangam Singh technology stack"/>
-<img src="./id-dashboard.svg?v=4" width="100%" alt="Live developer dashboard"/>
-<img src="./leetcode.svg?v=4" width="100%" alt="LeetCode contribution heatmap"/>
+<div align="center">
+<img src="./assets/sangam-hero-photo.jpg?v=5" width="180" alt="Sangam Singh"/>
+<br/>
+<sub><b>Sangam Singh</b> • AI / ML / Data / Full-Stack</sub>
+</div>
+
+<img src="./hero.svg?v=5" width="100%" alt="Sangam Singh animated developer profile"/>
+<img src="./about-life.svg?v=5" width="100%" alt="About Sangam Singh"/>
+<img src="./stack.svg?v=5" width="100%" alt="Sangam Singh technology stack"/>
+<img src="./id-dashboard.svg?v=5" width="100%" alt="Live developer dashboard"/>
+<img src="./leetcode.svg?v=5" width="100%" alt="LeetCode contribution heatmap"/>
 
 </div>
+
+## 🟩 GitHub Contribution Heatmap
+
+<div align="center">
+<img src="https://ghchart.rshah.org/2ea043/sangamsingh18" width="100%" alt="GitHub contribution heatmap for sangamsingh18"/>
+</div>
+
+<p align="center"><sub>Green intensity represents contribution activity across the GitHub calendar.</sub></p>
 
 ## 🧰 Technology Stack — Resume Master List
 
