@@ -1,11 +1,5 @@
 <div align="center">
 
-<div align="center">
-<img src="./assets/sangam-hero-photo.jpg?v=5" width="180" alt="Sangam Singh"/>
-<br/>
-<sub><b>Sangam Singh</b> • AI / ML / Data / Full-Stack</sub>
-</div>
-
 <img src="./hero.svg?v=5" width="100%" alt="Sangam Singh animated developer profile"/>
 <img src="./about-life.svg?v=5" width="100%" alt="About Sangam Singh"/>
 <img src="./stack.svg?v=5" width="100%" alt="Sangam Singh technology stack"/>
