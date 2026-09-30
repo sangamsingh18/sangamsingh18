@@ -21,7 +21,7 @@
 <text x="28" y="40" class="m" fill="#22d3ee">DEVELOPER ID</text>
 <text x="302" y="40" class="m muted" text-anchor="end">v4.0</text>
 <rect x="106" y="62" width="118" height="118" rx="24" fill="#11182a" stroke="#8b5cf6" stroke-width="2"/>
-<image x="112" y="68" width="106" height="106" href="https://raw.githubusercontent.com/sangamsingh18/sangamsingh18/main/assets/sangam-avatar.jpg?v=1" preserveAspectRatio="xMidYMid slice"/>
+<image x="112" y="68" width="106" height="106" href="https://raw.githubusercontent.com/sangamsingh18/sangamsingh18/main/assets/sangam-hero-photo.jpg?v=4" preserveAspectRatio="xMidYMid slice"/>
 <circle cx="286" cy="80" r="5" fill="#34d399"/><text x="298" y="84" class="m" fill="#34d399" font-size="8">LIVE</text>
 <text x="165" y="220" class="h white" text-anchor="middle" font-size="23">Sangam Singh</text>
 <text x="165" y="244" class="m" fill="#a78bfa" text-anchor="middle" font-size="10">AI • ML • DATA • FULL-STACK</text>
