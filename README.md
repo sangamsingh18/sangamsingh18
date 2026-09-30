@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./hero.svg?v=3" width="100%" alt="Sangam Singh animated developer profile"/>
-<img src="./about-life.svg?v=3" width="100%" alt="About Sangam Singh"/>
-<img src="./stack.svg?v=3" width="100%" alt="Sangam Singh technology stack"/>
-<img src="./id-dashboard.svg?v=3" width="100%" alt="Live developer dashboard"/>
-<img src="./leetcode.svg?v=3" width="100%" alt="LeetCode contribution heatmap"/>
+<img src="./hero.svg?v=4" width="100%" alt="Sangam Singh animated developer profile"/>
+<img src="./about-life.svg?v=4" width="100%" alt="About Sangam Singh"/>
+<img src="./stack.svg?v=4" width="100%" alt="Sangam Singh technology stack"/>
+<img src="./id-dashboard.svg?v=4" width="100%" alt="Live developer dashboard"/>
+<img src="./leetcode.svg?v=4" width="100%" alt="LeetCode contribution heatmap"/>
 
 </div>
 
@@ -134,7 +134,7 @@ Deloitte Australia Data Analytics Virtual Experience · AWS Academy Cloud Founda
 
 ## 🌃 Contribution City
 
-<img src="./profile-3d-contrib/profile-night-view.svg?v=3" width="100%" alt="3D GitHub contribution city"/>
+<img src="./profile-3d-contrib/profile-night-view.svg?v=4" width="100%" alt="3D GitHub contribution city"/>
 
 ### ⚙️ Automated refresh
 
