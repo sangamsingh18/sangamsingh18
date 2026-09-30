@@ -19,7 +19,7 @@
 
 ## 📊 Live Profile Intelligence
 
-- **28 public repositories** are currently owned by this GitHub account; the dashboard is designed to refresh repository, star, fork, follower and contribution metrics automatically. urlGitHub profilehttps://github.com/sangamsingh18
+- **28 public repositories** are currently owned by this GitHub account; the dashboard is designed to refresh repository, star, fork, follower and contribution metrics automatically. [GitHub profile](https://github.com/sangamsingh18)
 - Current repository audit: **3 stars** and **0 forks** across the public repositories checked today.
 - Coding baseline from the latest resume: **600+ DSA problems** and **1700+ peak LeetCode rating**.
 - The LeetCode section now includes a **365-day heatmap**, solved count, difficulty breakdown and contest telemetry; the workflow refreshes it from the public LeetCode GraphQL profile.
