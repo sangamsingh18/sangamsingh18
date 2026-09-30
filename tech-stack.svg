@@ -43,7 +43,7 @@
   </g>
   </g><g transform="translate(58,282)">
     <rect width="1164" height="168" rx="18" class="card"/>
-    <text x="24" y="30" class="m" fill="#34d399">02 // DATA SCIENCE & MACHINE LEARNING</text>
+    <text x="24" y="30" class="m" fill="#34d399">02 // DATA SCIENCE &amp; MACHINE LEARNING</text>
     <g class="chip" transform="translate(24,48)" style="animation-delay:0s">
     <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
     <circle cx="22" cy="21" r="14" fill="#14b8a6"/>
@@ -102,7 +102,7 @@
   </g>
   </g><g transform="translate(58,466)">
     <rect width="1164" height="168" rx="18" class="card"/>
-    <text x="24" y="30" class="m" fill="#f472b6">03 // DEEP LEARNING & AI</text>
+    <text x="24" y="30" class="m" fill="#f472b6">03 // DEEP LEARNING &amp; AI</text>
     <g class="chip" transform="translate(24,48)" style="animation-delay:0s">
     <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
     <circle cx="22" cy="21" r="14" fill="#ef4444"/>
@@ -215,7 +215,7 @@
   </g>
   </g><g transform="translate(58,834)">
     <rect width="1164" height="168" rx="18" class="card"/>
-    <text x="24" y="30" class="m" fill="#fbbf24">05 // DATA, ANALYTICS & BI</text>
+    <text x="24" y="30" class="m" fill="#fbbf24">05 // DATA, ANALYTICS &amp; BI</text>
     <g class="chip" transform="translate(24,48)" style="animation-delay:0s">
     <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
     <circle cx="22" cy="21" r="14" fill="#150458"/>
@@ -269,7 +269,7 @@
   </g>
   </g><g transform="translate(58,1018)">
     <rect width="1164" height="116" rx="18" class="card"/>
-    <text x="24" y="30" class="m" fill="#22d3ee">06 // DATABASES & STORAGE</text>
+    <text x="24" y="30" class="m" fill="#22d3ee">06 // DATABASES &amp; STORAGE</text>
     <g class="chip" transform="translate(24,48)" style="animation-delay:0s">
     <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
     <circle cx="22" cy="21" r="14" fill="#47A248"/>
@@ -303,7 +303,7 @@
   </g>
   </g><g transform="translate(58,1150)">
     <rect width="1164" height="116" rx="18" class="card"/>
-    <text x="24" y="30" class="m" fill="#ec4899">07 // GENAI, LLM & RAG TOOLING</text>
+    <text x="24" y="30" class="m" fill="#ec4899">07 // GENAI, LLM &amp; RAG TOOLING</text>
     <g class="chip" transform="translate(24,48)" style="animation-delay:0s">
     <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
     <circle cx="22" cy="21" r="14" fill="#F55036"/>
@@ -337,7 +337,7 @@
   </g>
   </g><g transform="translate(58,1282)">
     <rect width="1164" height="116" rx="18" class="card"/>
-    <text x="24" y="30" class="m" fill="#34d399">08 // CLOUD, DEPLOYMENT & PRODUCT TOOLS</text>
+    <text x="24" y="30" class="m" fill="#34d399">08 // CLOUD, DEPLOYMENT &amp; PRODUCT TOOLS</text>
     <g class="chip" transform="translate(24,48)" style="animation-delay:0s">
     <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
     <circle cx="22" cy="21" r="14" fill="#FF9900"/>
@@ -371,7 +371,7 @@
   </g>
   </g><g transform="translate(58,1414)">
     <rect width="1164" height="116" rx="18" class="card"/>
-    <text x="24" y="30" class="m" fill="#60a5fa">09 // WEB & PLATFORM</text>
+    <text x="24" y="30" class="m" fill="#60a5fa">09 // WEB &amp; PLATFORM</text>
     <g class="chip" transform="translate(24,48)" style="animation-delay:0s">
     <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
     <circle cx="22" cy="21" r="14" fill="#E34F26"/>
