@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 500">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#7F00FF"/><stop offset=".5" stop-color="#E100FF"/><stop offset="1" stop-color="#FF6FD8"/></linearGradient></defs>
+<rect width="1280" height="500" rx="26" fill="#090B14"/>
+<rect x="45" y="35" width="1190" height="430" rx="22" fill="#111425" stroke="#7F00FF" stroke-opacity=".4"/>
+<text x="85" y="90" font-family="Consolas,monospace" font-size="26" fill="url(#g)" font-weight="700">developer.profile</text>
+<text x="85" y="135" font-family="Consolas,monospace" font-size="18" fill="#94A3B8">whoami</text>
+<text x="85" y="175" font-family="Consolas,monospace" font-size="24" fill="white">Sangam Singh</text>
+<text x="85" y="212" font-family="Consolas,monospace" font-size="17" fill="#C4B5FD">B.Tech CSE • Parul University • 2023–2027</text>
+<text x="85" y="250" font-family="Consolas,monospace" font-size="17" fill="#CBD5E1">Focus: Data Science, ML, LLM, RAG &amp; Full-Stack</text>
+<g transform="translate(760 105)">
+<rect width="390" height="275" rx="18" fill="#0B1020" stroke="#E100FF" stroke-opacity=".45"/>
+<text x="30" y="48" font-family="Consolas,monospace" font-size="19" fill="#67E8F9">CURRENT_TOOLKIT</text>
+<text x="30" y="90" font-family="Consolas,monospace" font-size="16" fill="white">Python  •  C++  •  JavaScript</text>
+<text x="30" y="126" font-family="Consolas,monospace" font-size="16" fill="white">React  •  Node.js  •  FastAPI</text>
+<text x="30" y="162" font-family="Consolas,monospace" font-size="16" fill="white">Scikit-learn • TensorFlow • PyTorch</text>
+<text x="30" y="198" font-family="Consolas,monospace" font-size="16" fill="white">MongoDB • PostgreSQL • SQL</text>
+<text x="30" y="234" font-family="Consolas,monospace" font-size="16" fill="#86EFAC">RAG • LangChain • Docker • AWS</text>
+</g>
+</svg>

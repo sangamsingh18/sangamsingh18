@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 440">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#7F00FF"/><stop offset=".5" stop-color="#E100FF"/><stop offset="1" stop-color="#FF6FD8"/></linearGradient></defs>
+<rect width="1280" height="440" rx="26" fill="#090B14"/>
+<text x="640" y="62" text-anchor="middle" font-family="Consolas,monospace" font-size="28" fill="url(#g)" font-weight="700">TECH STACK</text>
+<g font-family="Consolas,monospace" font-size="18">
+<rect x="65" y="100" width="355" height="265" rx="18" fill="#111425" stroke="#7F00FF" stroke-opacity=".45"/>
+<text x="95" y="140" fill="#67E8F9">DATA &amp; ML</text><text x="95" y="178" fill="white">Python</text><text x="95" y="208" fill="white">Pandas • NumPy • Scikit-learn</text><text x="95" y="238" fill="white">TensorFlow • PyTorch • Keras</text><text x="95" y="268" fill="white">OpenCV • Power BI</text><text x="95" y="298" fill="white">Matplotlib • Seaborn • Plotly</text>
+<rect x="462" y="100" width="355" height="265" rx="18" fill="#111425" stroke="#E100FF" stroke-opacity=".45"/>
+<text x="492" y="140" fill="#C4B5FD">AI &amp; BACKEND</text><text x="492" y="178" fill="white">LLM • RAG • LangChain</text><text x="492" y="208" fill="white">FastAPI • REST APIs</text><text x="492" y="238" fill="white">Node.js • Express.js</text><text x="492" y="268" fill="white">React.js • JavaScript</text><text x="492" y="298" fill="white">Groq • ChromaDB</text>
+<rect x="859" y="100" width="355" height="265" rx="18" fill="#111425" stroke="#FF6FD8" stroke-opacity=".45"/>
+<text x="889" y="140" fill="#F9A8D4">DATA / CLOUD</text><text x="889" y="178" fill="white">MySQL • MongoDB • PostgreSQL</text><text x="889" y="208" fill="white">AWS Cloud Fundamentals</text><text x="889" y="238" fill="white">Docker • Git • GitHub</text><text x="889" y="268" fill="white">Jupyter • Excel</text><text x="889" y="298" fill="white">Firebase • Supabase</text>
+</g></svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 330">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#7F00FF"/><stop offset=".5" stop-color="#E100FF"/><stop offset="1" stop-color="#FF6FD8"/></linearGradient></defs>
+<rect width="1280" height="330" rx="26" fill="#090B14"/>
+<text x="640" y="75" text-anchor="middle" font-family="Consolas,monospace" font-size="30" fill="url(#g)" font-weight="700">LET'S CONNECT</text>
+<text x="640" y="115" text-anchor="middle" font-family="Consolas,monospace" font-size="17" fill="#94A3B8">Open to learning, building and collaborating.</text>
+<g font-family="Consolas,monospace" font-size="18">
+<rect x="105" y="165" width="245" height="70" rx="14" fill="#111425" stroke="#7F00FF"/><text x="227" y="208" text-anchor="middle" fill="white">GitHub</text>
+<rect x="380" y="165" width="245" height="70" rx="14" fill="#111425" stroke="#E100FF"/><text x="502" y="208" text-anchor="middle" fill="white">Email</text>
+<rect x="655" y="165" width="245" height="70" rx="14" fill="#111425" stroke="#FF6FD8"/><text x="777" y="208" text-anchor="middle" fill="white">LinkedIn</text>
+<rect x="930" y="165" width="245" height="70" rx="14" fill="#111425" stroke="#67E8F9"/><text x="1052" y="208" text-anchor="middle" fill="white">Portfolio</text>
+</g></svg>
