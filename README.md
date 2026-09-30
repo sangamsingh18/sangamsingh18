@@ -33,7 +33,7 @@ I enjoy taking an idea from **data → model → API → interface → deployabl
 
 <div align="center">
 
-<img src="./tech-stack.svg?v=8" width="100%" alt="Sangam Singh animated technology stack with logo marks"/>
+<img src="./tech-stack.svg?v=9" width="100%" alt="Sangam Singh animated technology stack with logo marks"/>
 
 </div>
 
