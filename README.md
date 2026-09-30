@@ -1,149 +1,195 @@
 <div align="center">
 
-<img src="./hero.svg?v=5" width="100%" alt="Sangam Singh animated developer profile"/>
-<img src="./about-life.svg?v=5" width="100%" alt="About Sangam Singh"/>
-<img src="./stack.svg?v=5" width="100%" alt="Sangam Singh technology stack"/>
-<img src="./id-dashboard.svg?v=5" width="100%" alt="Live developer dashboard"/>
-<a href="https://leetcode.com/u/sangam__singh_/"><img src="https://leetcard.jacoblin.cool/sangam__singh_?theme=dark&ext=heatmap" width="100%" alt="Sangam Singh LeetCode statistics and submission heatmap"/></a>
+<img src="./hero.svg?v=7" width="100%" alt="Sangam Singh animated profile"/>
 
 </div>
 
-## 🟩 GitHub Contribution Heatmap
+## 01 // ABOUT SANGAM
 
 <div align="center">
-<img src="https://ghchart.rshah.org/2ea043/sangamsingh18" width="100%" alt="GitHub contribution heatmap for sangamsingh18"/>
+
+<img src="./about-life.svg?v=7" width="100%" alt="About Sangam Singh — education, focus and engineering profile"/>
+
 </div>
 
-<p align="center"><sub>Green intensity represents contribution activity across the GitHub calendar.</sub></p>
+### 👋 Who I am
 
-## 🧰 Technology Stack — Resume Master List
+I’m **Sangam Singh**, a Computer Science undergraduate at **Parul University**, focused on **Data Science, Machine Learning, Generative AI, RAG systems and full-stack AI products**.
 
-<img src="./tech-stack.svg?v=4" width="100%" alt="Sangam Singh resume-derived technology stack"/>
+I enjoy taking an idea from **data → model → API → interface → deployable product**.
 
-### 🐍 Languages
+**What I work on**
+- 🤖 Machine Learning, Deep Learning, LLM and RAG applications
+- 📊 Data analysis, ETL workflows, AutoML and analytics dashboards
+- 🌐 React + FastAPI / Node.js full-stack applications
+- 🧠 Retrieval pipelines, vector search and AI-assisted developer tools
+- 🛠️ Automation, APIs, Docker and cloud fundamentals
+
+**Current academic profile:** B.Tech CSE · Parul University · 2023–2027 expected · **CGPA 8.15/10**
+
+---
+
+## 02 // TECHNOLOGY STACK
+
 <div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+
+<img src="./tech-stack.svg?v=7" width="100%" alt="Sangam Singh animated technology stack with logo marks"/>
+
 </div>
 
-### 🤖 Data Science, ML & Deep Learning
-<div align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-</div>
-
-### 🧠 GenAI, LLM & RAG
-<div align="center">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Groq%20AI-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq AI"/>
-<img src="https://img.shields.io/badge/ChromaDB-6E46AE?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="LLaMA"/>
-<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="RAG"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
-</div>
-
-### 🌐 Frontend, Backend & APIs
-<div align="center">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</div>
-
-### 🗄️ Databases & Data Platforms
-<div align="center">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
-</div>
-
-### ☁️ Cloud, DevOps & Developer Tools
-<div align="center">
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</div>
-
-### 📊 BI & Productivity
-<div align="center">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-</div>
-
-> **Source:** consolidated from the Technical Skills sections and project technology lists across the Sangam Singh resumes available in this workspace. Items from unrelated resumes were excluded.
-
-## 🚀 Featured Engineering
-
-| Project | What it demonstrates | Core stack |
-|---|---|---|
-| **Datalytics AI** | End-to-end analytics + AutoML platform with AI-generated insights | React · FastAPI · Python · Scikit-learn · Groq · MongoDB · Docker |
-| **ApnaCoach** | AI mock interviews, ATS scoring, assessments, reports and study workflows | React · Node.js · Groq AI · Firebase · Razorpay |
-| **InsightRAG** | Multi-source RAG over GitHub repositories, YouTube transcripts and PDFs | Python · LangChain · ChromaDB · Supabase · Streamlit · LLaMA |
-| **SyncTYPE** | Browser automation extension for structured form filling | JavaScript · Manifest V3 · HTML · CSS |
-
-## 📊 Live Profile Intelligence
-
-- **28 public repositories** are currently owned by this GitHub account; the dashboard is designed to refresh repository, star, fork, follower and contribution metrics automatically. [GitHub profile](https://github.com/sangamsingh18)
-- Current repository audit: **3 stars** and **0 forks** across the public repositories checked today.
-- Coding baseline from the latest resume: **600+ DSA problems** and **1700+ peak LeetCode rating**.
-- The LeetCode section now includes a **365-day heatmap**, solved count, difficulty breakdown and contest telemetry; the workflow refreshes it from the public LeetCode GraphQL profile.
-- GitHub's contribution calendar is based on GitHub's contribution data rather than manually drawn activity. [GitHub contribution documentation](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)
-
-## 🧰 Industry Stack
+### Core stack
 
 **Languages:** Python · C++ · JavaScript · SQL · Java  
-**AI/ML:** Scikit-learn · TensorFlow · Keras · PyTorch · NLP · Computer Vision  
-**GenAI/RAG:** LLMs · LangChain · RAG · ChromaDB · Vector Search · Prompt Engineering  
-**Backend:** FastAPI · Node.js · Express · REST APIs  
-**Frontend:** React · HTML · CSS · JavaScript  
-**Data:** Pandas · NumPy · MySQL · MongoDB · Supabase · Power BI · Excel · Plotly · Matplotlib  
-**DevOps/Cloud:** Git · GitHub · Docker · AWS basics · CI/CD
+**Data / ML:** Pandas · NumPy · Scikit-learn · TensorFlow · Keras · PyTorch · OpenCV  
+**AI / GenAI:** LLMs · RAG · LangChain · ChromaDB · LLaMA · Prompt Engineering  
+**Frontend / Backend:** React.js · Node.js · Express.js · FastAPI · REST APIs  
+**Databases:** MongoDB · PostgreSQL · MySQL · Supabase  
+**Cloud / DevOps:** AWS Cloud Fundamentals · Docker · Git · GitHub · CI/CD · Jupyter  
+**Analytics / BI:** Power BI · Microsoft Excel · Google Sheets · Plotly · Matplotlib · Seaborn
 
-## 🎓 Education & Experience
+---
 
-**B.Tech — Computer Science & Engineering** · Parul University · 2023–2027 expected · **CGPA 8.15/10**
+## 03 // DEVELOPER DASHBOARD
 
-**Admission Assistant & Marketing Intern — Parul University** · Mar 2025–Nov 2025  
-Processed 100+ applications, built enrollment dashboards and supported outreach.
+<div align="center">
 
-## 🏆 Certifications
+<img src="./id-dashboard.svg?v=7" width="100%" alt="Sangam Singh developer dashboard and ID card"/>
 
-Deloitte Australia Data Analytics Virtual Experience · AWS Academy Cloud Foundations · SQL Intermediate (HackerRank) · Computer Networks and Internet Protocol (NPTEL) · Salesforce Administrator (ADM-201)
+</div>
 
-## 🔗 Connect
+---
 
-[GitHub](https://github.com/sangamsingh18) · [LinkedIn](https://www.linkedin.com/in/sangam-singh-94a52633b) · [Portfolio](https://sangam18.in) · [Codolio](https://codolio.com/profile/sangam_singh_) · [LeetCode](https://leetcode.com/u/sangam__singh_/) · [Email](mailto:singhsangam1800@gmail.com)
+## 04 // FEATURED PROJECTS
 
-## 🌃 Contribution City
+<div align="center">
 
-<img src="./profile-3d-contrib/profile-night-view.svg?v=4" width="100%" alt="3D GitHub contribution city"/>
+<img src="./projects.svg?v=7" width="100%" alt="Sangam Singh featured engineering projects"/>
 
-### ⚙️ Automated refresh
+</div>
 
-Run **Actions → Refresh profile intelligence → Run workflow** for an immediate refresh. It also runs daily.
+### Project highlights
+
+| Project | What I built | Main technologies |
+|---|---|---|
+| **Datalytics AI** | Scalable analytics + AutoML platform with 1M+ row ingestion, automated model selection and AI-generated insights | React · FastAPI · Python · Scikit-learn · Groq · MongoDB · Docker |
+| **ApnaCoach** | AI mock interviews, ATS resume scoring, assessments, PDF reports and personalized study workflows | React · Node.js · Groq AI · Firebase · Razorpay |
+| **InsightRAG** | Multi-source RAG over GitHub repositories, YouTube transcripts and PDFs with vector retrieval | Python · LangChain · ChromaDB · Supabase · Streamlit · LLaMA |
+| **SyncTYPE** | Chrome extension for structured college, job and registration form filling | JavaScript · Manifest V3 · HTML · CSS |
+
+---
+
+## 05 // CERTIFICATIONS
+
+<div align="center">
+
+<img src="./certifications.svg?v=7" width="100%" alt="Sangam Singh certifications"/>
+
+</div>
+
+- **Deloitte Australia Data Analytics Virtual Experience** — Forage, 2024
+- **AWS Academy Cloud Foundations** — Amazon Web Services, 2024
+- **SQL Intermediate Certificate** — HackerRank, 2024
+- **Computer Networks and Internet Protocol** — NPTEL, 2024
+
+---
+
+## 06 // LEETCODE
+
+<div align="center">
+
+<img src="./leetcode.svg?v=7" width="100%" alt="Sangam Singh LeetCode telemetry"/>
+
+<a href="https://leetcode.com/u/sangam__singh_/">
+<img src="https://leetcard.jacoblin.cool/sangam__singh_?theme=dark&ext=heatmap" width="100%" alt="Sangam Singh LeetCode statistics, difficulty breakdown and submission heatmap"/>
+</a>
+
+</div>
+
+**Coding baseline:** 600+ DSA problems solved · **1700+ peak LeetCode Contest Rating**
+
+---
+
+## 07 // EXPERIENCE
+
+<div align="center">
+
+<img src="./experience.svg?v=7" width="100%" alt="Sangam Singh experience"/>
+
+</div>
+
+### Admission Assistant & Marketing Intern — Parul University
+**March 2025 – November 2025 · Vadodara, Gujarat**
+
+- Processed and tracked **100+ student applications** using structured workflows.
+- Reduced average response time by **40%** and improved documentation accuracy.
+- Built enrollment trend dashboards in **Microsoft Excel and Google Sheets**, improving reporting efficiency by **30%**.
+- Supported digital outreach targeting **500+ prospective students**, increasing qualified inquiry volume by **25%**.
+
+---
+
+## 08 // GITHUB CONTRIBUTION HEATMAP
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/2ea043/sangamsingh18" width="100%" alt="Sangam Singh GitHub contribution heatmap"/>
+
+</div>
+
+---
+
+## 09 // 3D CONTRIBUTION CITY
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-view.svg?v=7" width="100%" alt="Sangam Singh 3D GitHub contribution city"/>
+
+</div>
+
+> The 3D contribution city is generated automatically through GitHub Actions.
+
+---
+
+## 10 // CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sangamsingh18/sangamsingh18/output/github-snake.svg?v=7" width="100%" alt="Sangam Singh GitHub contribution snake"/>
+
+</div>
+
+---
+
+## 11 // EDUCATION
+
+**Bachelor of Technology — Computer Science & Engineering**  
+**Parul University** · Aug 2023 – May 2027 (Expected)  
+**CGPA: 8.15/10**
+
+Relevant coursework: Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks · Software Engineering · Machine Learning · Statistics · Deep Learning
+
+---
+
+## 12 // CONNECT
+
+<div align="center">
+
+<a href="mailto:singhsangam1800@gmail.com">📧 Email</a> ·
+<a href="https://github.com/sangamsingh18">💻 GitHub</a> ·
+<a href="https://www.linkedin.com/in/sangam-singh-94a52633b">🔗 LinkedIn</a> ·
+<a href="https://sangam18.in">🌐 Portfolio</a> ·
+<a href="https://codolio.com/profile/sangam_singh_">🧑‍💻 Codolio</a> ·
+<a href="https://leetcode.com/u/sangam__singh_/">🏆 LeetCode</a>
+
+<br/><br/>
+
+<img src="./connect.svg?v=7" width="100%" alt="Connect with Sangam Singh"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**Building practical AI systems, useful data products and clean developer experiences.** 🚀
+
+</div>
