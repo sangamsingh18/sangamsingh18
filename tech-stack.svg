@@ -1,33 +1,407 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 1080">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 1571">
 <defs>
-<linearGradient id="g" x1="0" x2="1"><stop stop-color="#8b5cf6"/><stop offset=".5" stop-color="#ec4899"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
-<style>
-.h{font:700 27px Arial,sans-serif}.m{font:12px Consolas,monospace;letter-spacing:1.5px}.t{font:700 14px Arial,sans-serif}.s{font:12px Arial,sans-serif}.muted{fill:#8992aa}
-.card{fill:#0b1020;stroke:#29304a}.logo{font:700 11px Arial,sans-serif;fill:#fff;text-anchor:middle}.chip{animation:chip 3.6s ease-in-out infinite}.chip:nth-child(2){animation-delay:.2s}.chip:nth-child(3){animation-delay:.4s}.chip:nth-child(4){animation-delay:.6s}.chip:nth-child(5){animation-delay:.8s}
-@keyframes chip{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
-</style></defs>
-<rect width="1280" height="1080" rx="28" fill="#080b14"/><rect x="24" y="24" width="1232" height="1032" rx="24" fill="#111527" stroke="url(#g)" stroke-opacity=".5"/>
-<text x="58" y="64" class="m" fill="#a78bfa">// TECHNOLOGY STACK</text><text x="58" y="104" class="h" fill="#eef2ff">Animated engineering toolkit</text><text x="58" y="132" class="s muted">Resume-derived skills • animated chips • inline logo marks • grouped for quick scanning</text>
-
-<g transform="translate(58,165)"><rect width="1164" height="105" rx="18" class="card"/><text x="24" y="31" class="m" fill="#22d3ee">01 // LANGUAGES</text>
-<g class="chip" transform="translate(24,48)"><rect width="160" height="38" rx="11" fill="#121a2b"/><circle cx="21" cy="19" r="14" fill="#3776AB"/><text x="21" y="23" class="logo">PY</text><text x="46" y="24" class="t" fill="#dbe4ff">Python</text></g>
-<g class="chip" transform="translate(198,48)"><rect width="160" height="38" rx="11" fill="#121a2b"/><circle cx="21" cy="19" r="14" fill="#2563eb"/><text x="21" y="23" class="logo">C++</text><text x="46" y="24" class="t" fill="#dbe4ff">C++</text></g>
-<g class="chip" transform="translate(372,48)"><rect width="160" height="38" rx="11" fill="#121a2b"/><circle cx="21" cy="19" r="14" fill="#F7DF1E"/><text x="21" y="23" class="logo" fill="#111827">JS</text><text x="46" y="24" class="t" fill="#dbe4ff">JavaScript</text></g>
-<g class="chip" transform="translate(546,48)"><rect width="160" height="38" rx="11" fill="#121a2b"/><circle cx="21" cy="19" r="14" fill="#4169E1"/><text x="21" y="23" class="logo">SQL</text><text x="46" y="24" class="t" fill="#dbe4ff">SQL</text></g>
-<g class="chip" transform="translate(720,48)"><rect width="160" height="38" rx="11" fill="#121a2b"/><circle cx="21" cy="19" r="14" fill="#ED8B00"/><text x="21" y="23" class="logo">J</text><text x="46" y="24" class="t" fill="#dbe4ff">Java</text></g></g>
-
-<g transform="translate(58,290)"><rect width="1164" height="135" rx="18" class="card"/><text x="24" y="31" class="m" fill="#34d399">02 // DATA SCIENCE &amp; ML</text>
-<g class="chip" transform="translate(24,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#150458"/><text x="25" y="28" class="logo">PANDAS</text><text x="49" y="29" class="t" fill="#dbe4ff">Pandas</text></g><g class="chip" transform="translate(204,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#013243"/><text x="25" y="28" class="logo">NUMPY</text><text x="49" y="29" class="t" fill="#dbe4ff">NumPy</text></g><g class="chip" transform="translate(384,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#F7931E"/><text x="25" y="28" class="logo">SK</text><text x="49" y="29" class="t" fill="#dbe4ff">Scikit-learn</text></g><g class="chip" transform="translate(564,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#22c55e"/><text x="25" y="28" class="logo">EDA</text><text x="49" y="29" class="t" fill="#dbe4ff">EDA</text></g><g class="chip" transform="translate(744,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#22c55e"/><text x="25" y="28" class="logo">FE</text><text x="49" y="29" class="t" fill="#dbe4ff">Feature Engineering</text></g><g class="chip" transform="translate(924,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#16a34a"/><text x="25" y="28" class="logo">AUTO</text><text x="49" y="29" class="t" fill="#dbe4ff">AutoML</text></g></g>
-
-<g transform="translate(58,445)"><rect width="1164" height="135" rx="18" class="card"/><text x="24" y="31" class="m" fill="#f472b6">03 // DEEP LEARNING &amp; AI</text>
-<g class="chip" transform="translate(24,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#FF6F00"/><text x="25" y="28" class="logo">TF</text><text x="49" y="29" class="t" fill="#dbe4ff">TensorFlow</text></g><g class="chip" transform="translate(204,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#D00000"/><text x="25" y="28" class="logo">K</text><text x="49" y="29" class="t" fill="#dbe4ff">Keras</text></g><g class="chip" transform="translate(384,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#EE4C2C"/><text x="25" y="28" class="logo">PT</text><text x="49" y="29" class="t" fill="#dbe4ff">PyTorch</text></g><g class="chip" transform="translate(564,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#5C3EE8"/><text x="25" y="28" class="logo">CV</text><text x="49" y="29" class="t" fill="#dbe4ff">OpenCV</text></g><g class="chip" transform="translate(744,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#7c3aed"/><text x="25" y="28" class="logo">NLP</text><text x="49" y="29" class="t" fill="#dbe4ff">NLP</text></g><g class="chip" transform="translate(924,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#ef4444"/><text x="25" y="28" class="logo">NN</text><text x="49" y="29" class="t" fill="#dbe4ff">Neural Networks</text></g></g>
-
-<g transform="translate(58,600)"><rect width="1164" height="135" rx="18" class="card"/><text x="24" y="31" class="m" fill="#a78bfa">04 // GENAI / LLM / RAG</text>
-<g class="chip" transform="translate(24,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#1C3C3C"/><text x="25" y="28" class="logo">LC</text><text x="49" y="29" class="t" fill="#dbe4ff">LangChain</text></g><g class="chip" transform="translate(204,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#8B5CF6"/><text x="25" y="28" class="logo">RAG</text><text x="49" y="29" class="t" fill="#dbe4ff">RAG</text></g><g class="chip" transform="translate(384,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#6E46AE"/><text x="25" y="28" class="logo">CH</text><text x="49" y="29" class="t" fill="#dbe4ff">ChromaDB</text></g><g class="chip" transform="translate(564,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#0467DF"/><text x="25" y="28" class="logo">LLM</text><text x="49" y="29" class="t" fill="#dbe4ff">LLaMA / LLM</text></g><g class="chip" transform="translate(744,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#7C3AED"/><text x="25" y="28" class="logo">PE</text><text x="49" y="29" class="t" fill="#dbe4ff">Prompt Engineering</text></g><g class="chip" transform="translate(924,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#F55036"/><text x="25" y="28" class="logo">GROQ</text><text x="49" y="29" class="t" fill="#dbe4ff">Groq API</text></g></g>
-
-<g transform="translate(58,755)"><rect width="1164" height="135" rx="18" class="card"/><text x="24" y="31" class="m" fill="#22d3ee">05 // WEB / BACKEND / DATABASES</text>
-<g class="chip" transform="translate(24,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#61DAFB"/><text x="25" y="28" class="logo">R</text><text x="49" y="29" class="t" fill="#dbe4ff">React</text></g><g class="chip" transform="translate(204,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#339933"/><text x="25" y="28" class="logo">N</text><text x="49" y="29" class="t" fill="#dbe4ff">Node.js</text></g><g class="chip" transform="translate(384,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#111827"/><text x="25" y="28" class="logo">EX</text><text x="49" y="29" class="t" fill="#dbe4ff">Express</text></g><g class="chip" transform="translate(564,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#009688"/><text x="25" y="28" class="logo">API</text><text x="49" y="29" class="t" fill="#dbe4ff">FastAPI</text></g><g class="chip" transform="translate(744,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#47A248"/><text x="25" y="28" class="logo">MDB</text><text x="49" y="29" class="t" fill="#dbe4ff">MongoDB</text></g><g class="chip" transform="translate(924,48)"><rect width="164" height="48" rx="12" fill="#121a2b"/><circle cx="25" cy="24" r="15" fill="#4169E1"/><text x="25" y="28" class="logo">PG</text><text x="49" y="29" class="t" fill="#dbe4ff">PostgreSQL</text></g></g>
-
-<g transform="translate(58,910)"><rect width="1164" height="105" rx="18" class="card"/><text x="24" y="31" class="m" fill="#fbbf24">06 // CLOUD / DEVOPS / BI</text>
-<g class="chip" transform="translate(24,48)"><rect width="164" height="38" rx="11" fill="#121a2b"/><circle cx="21" cy="19" r="14" fill="#FF9900"/><text x="21" y="23" class="logo">AWS</text><text x="45" y="24" class="t" fill="#dbe4ff">AWS</text></g><g class="chip" transform="translate(204,48)"><rect width="164" height="38" rx="11" fill="#121a2b"/><circle cx="21" cy="19" r="14" fill="#2496ED"/><text x="21" y="23" class="logo">DK</text><text x="45" y="24" class="t" fill="#dbe4ff">Docker</text></g><g class="chip" transform="translate(384,48)"><rect width="164" height="38" rx="11" fill="#121a2b"/><circle cx="21" cy="19" r="14" fill="#181717"/><text x="21" y="23" class="logo">GH</text><text x="45" y="24" class="t" fill="#dbe4ff">GitHub</text></g><g class="chip" transform="translate(564,48)"><rect width="164" height="38" rx="11" fill="#121a2b"/><circle cx="21" cy="19" r="14" fill="#F05032"/><text x="21" y="23" class="logo">GIT</text><text x="45" y="24" class="t" fill="#dbe4ff">Git</text></g><g class="chip" transform="translate(744,48)"><rect width="164" height="38" rx="11" fill="#121a2b"/><circle cx="21" cy="19" r="14" fill="#F2C811"/><text x="21" y="23" class="logo">BI</text><text x="45" y="24" class="t" fill="#dbe4ff">Power BI</text></g><g class="chip" transform="translate(924,48)"><rect width="164" height="38" rx="11" fill="#121a2b"/><circle cx="21" cy="19" r="14" fill="#217346"/><text x="21" y="23" class="logo">XL</text><text x="45" y="24" class="t" fill="#dbe4ff">Excel</text></g></g>
+ <linearGradient id="g" x1="0" x2="1"><stop stop-color="#8b5cf6"/><stop offset=".5" stop-color="#ec4899"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+ <style>
+ .h{font:700 27px Arial,sans-serif}.m{font:12px Consolas,monospace;letter-spacing:1.4px}.t{font:700 11px Arial,sans-serif}.logo{font:700 8px Arial,sans-serif;fill:#fff;text-anchor:middle}.card{fill:#0b1020;stroke:#29304a}
+ .chip{animation:float 4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.chip:hover{filter:brightness(1.25)}
+ @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+ </style>
+</defs>
+<rect width="1280" height="1571" rx="28" fill="#080b14"/>
+<rect x="24" y="24" width="1232" height="1523" rx="24" fill="#111527" stroke="url(#g)" stroke-opacity=".55"/>
+<text x="58" y="64" class="m" fill="#a78bfa">// TECHNOLOGY STACK</text>
+<text x="58" y="103" class="h" fill="#eef2ff">Sangam's complete engineering toolkit</text>
+<text x="58" y="130" font-family="Arial" font-size="12" fill="#8992aa">Resume-derived skills + project technologies • no overlapping chips • animated logo marks</text>
+<g transform="translate(58,150)">
+    <rect width="1164" height="116" rx="18" class="card"/>
+    <text x="24" y="30" class="m" fill="#22d3ee">01 // PROGRAMMING LANGUAGES</text>
+    <g class="chip" transform="translate(24,48)" style="animation-delay:0s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#3776AB"/>
+    <text x="22" y="25" class="logo">PY</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Python</text>
+  </g><g class="chip" transform="translate(214,48)" style="animation-delay:0.08s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#2563eb"/>
+    <text x="22" y="25" class="logo">C++</text>
+    <text x="44" y="26" class="t" fill="#e8edff">C++</text>
+  </g><g class="chip" transform="translate(404,48)" style="animation-delay:0.16s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#F7DF1E"/>
+    <text x="22" y="25" class="logo">JS</text>
+    <text x="44" y="26" class="t" fill="#e8edff">JavaScript</text>
+  </g><g class="chip" transform="translate(594,48)" style="animation-delay:0.24s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#4169E1"/>
+    <text x="22" y="25" class="logo">SQL</text>
+    <text x="44" y="26" class="t" fill="#e8edff">SQL</text>
+  </g><g class="chip" transform="translate(784,48)" style="animation-delay:0.32s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#ED8B00"/>
+    <text x="22" y="25" class="logo">J</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Java</text>
+  </g>
+  </g><g transform="translate(58,282)">
+    <rect width="1164" height="168" rx="18" class="card"/>
+    <text x="24" y="30" class="m" fill="#34d399">02 // DATA SCIENCE & MACHINE LEARNING</text>
+    <g class="chip" transform="translate(24,48)" style="animation-delay:0s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#14b8a6"/>
+    <text x="22" y="25" class="logo">EDA</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Exploratory Data Analysis</text>
+  </g><g class="chip" transform="translate(214,48)" style="animation-delay:0.08s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#22c55e"/>
+    <text x="22" y="25" class="logo">FE</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Feature Engineering</text>
+  </g><g class="chip" transform="translate(404,48)" style="animation-delay:0.16s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#16a34a"/>
+    <text x="22" y="25" class="logo">DW</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Data Wrangling</text>
+  </g><g class="chip" transform="translate(594,48)" style="animation-delay:0.24s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#0ea5e9"/>
+    <text x="22" y="25" class="logo">STAT</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Statistical Analysis</text>
+  </g><g class="chip" transform="translate(784,48)" style="animation-delay:0.32s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#6366f1"/>
+    <text x="22" y="25" class="logo">REG</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Regression</text>
+  </g><g class="chip" transform="translate(974,48)" style="animation-delay:0.4s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#8b5cf6"/>
+    <text x="22" y="25" class="logo">CLS</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Classification</text>
+  </g><g class="chip" transform="translate(24,100)" style="animation-delay:0s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#a855f7"/>
+    <text x="22" y="25" class="logo">CL</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Clustering</text>
+  </g><g class="chip" transform="translate(214,100)" style="animation-delay:0.08s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#ec4899"/>
+    <text x="22" y="25" class="logo">PM</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Predictive Modeling</text>
+  </g><g class="chip" transform="translate(404,100)" style="animation-delay:0.16s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#f59e0b"/>
+    <text x="22" y="25" class="logo">AB</text>
+    <text x="44" y="26" class="t" fill="#e8edff">A/B Testing</text>
+  </g><g class="chip" transform="translate(594,100)" style="animation-delay:0.24s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#22c55e"/>
+    <text x="22" y="25" class="logo">AUTO</text>
+    <text x="44" y="26" class="t" fill="#e8edff">AutoML</text>
+  </g><g class="chip" transform="translate(784,100)" style="animation-delay:0.32s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#06b6d4"/>
+    <text x="22" y="25" class="logo">TS</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Time Series Analysis</text>
+  </g>
+  </g><g transform="translate(58,466)">
+    <rect width="1164" height="168" rx="18" class="card"/>
+    <text x="24" y="30" class="m" fill="#f472b6">03 // DEEP LEARNING & AI</text>
+    <g class="chip" transform="translate(24,48)" style="animation-delay:0s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#ef4444"/>
+    <text x="22" y="25" class="logo">ANN</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Neural Networks (ANN)</text>
+  </g><g class="chip" transform="translate(214,48)" style="animation-delay:0.08s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#f97316"/>
+    <text x="22" y="25" class="logo">CNN</text>
+    <text x="44" y="26" class="t" fill="#e8edff">CNN</text>
+  </g><g class="chip" transform="translate(404,48)" style="animation-delay:0.16s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#eab308"/>
+    <text x="22" y="25" class="logo">RNN</text>
+    <text x="44" y="26" class="t" fill="#e8edff">RNN</text>
+  </g><g class="chip" transform="translate(594,48)" style="animation-delay:0.24s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#2563eb"/>
+    <text x="22" y="25" class="logo">LLM</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Large Language Models</text>
+  </g><g class="chip" transform="translate(784,48)" style="animation-delay:0.32s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#8b5cf6"/>
+    <text x="22" y="25" class="logo">RAG</text>
+    <text x="44" y="26" class="t" fill="#e8edff">RAG</text>
+  </g><g class="chip" transform="translate(974,48)" style="animation-delay:0.4s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#FF6F00"/>
+    <text x="22" y="25" class="logo">TF</text>
+    <text x="44" y="26" class="t" fill="#e8edff">TensorFlow</text>
+  </g><g class="chip" transform="translate(24,100)" style="animation-delay:0s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#D00000"/>
+    <text x="22" y="25" class="logo">K</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Keras</text>
+  </g><g class="chip" transform="translate(214,100)" style="animation-delay:0.08s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#EE4C2C"/>
+    <text x="22" y="25" class="logo">PT</text>
+    <text x="44" y="26" class="t" fill="#e8edff">PyTorch</text>
+  </g><g class="chip" transform="translate(404,100)" style="animation-delay:0.16s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#5C3EE8"/>
+    <text x="22" y="25" class="logo">CV</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Computer Vision</text>
+  </g><g class="chip" transform="translate(594,100)" style="animation-delay:0.24s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#7c3aed"/>
+    <text x="22" y="25" class="logo">NLP</text>
+    <text x="44" y="26" class="t" fill="#e8edff">NLP</text>
+  </g><g class="chip" transform="translate(784,100)" style="animation-delay:0.32s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#1C3C3C"/>
+    <text x="22" y="25" class="logo">LC</text>
+    <text x="44" y="26" class="t" fill="#e8edff">LangChain</text>
+  </g>
+  </g><g transform="translate(58,650)">
+    <rect width="1164" height="168" rx="18" class="card"/>
+    <text x="24" y="30" class="m" fill="#a78bfa">04 // SOFTWARE ENGINEERING</text>
+    <g class="chip" transform="translate(24,48)" style="animation-delay:0s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#0ea5e9"/>
+    <text x="22" y="25" class="logo">API</text>
+    <text x="44" y="26" class="t" fill="#e8edff">REST API Design</text>
+  </g><g class="chip" transform="translate(214,48)" style="animation-delay:0.08s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#009688"/>
+    <text x="22" y="25" class="logo">FA</text>
+    <text x="44" y="26" class="t" fill="#e8edff">FastAPI</text>
+  </g><g class="chip" transform="translate(404,48)" style="animation-delay:0.16s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#61DAFB"/>
+    <text x="22" y="25" class="logo">R</text>
+    <text x="44" y="26" class="t" fill="#e8edff">React.js</text>
+  </g><g class="chip" transform="translate(594,48)" style="animation-delay:0.24s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#339933"/>
+    <text x="22" y="25" class="logo">N</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Node.js</text>
+  </g><g class="chip" transform="translate(784,48)" style="animation-delay:0.32s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#111827"/>
+    <text x="22" y="25" class="logo">EX</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Express.js</text>
+  </g><g class="chip" transform="translate(974,48)" style="animation-delay:0.4s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#F05032"/>
+    <text x="22" y="25" class="logo">GIT</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Git</text>
+  </g><g class="chip" transform="translate(24,100)" style="animation-delay:0s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#181717"/>
+    <text x="22" y="25" class="logo">GH</text>
+    <text x="44" y="26" class="t" fill="#e8edff">GitHub</text>
+  </g><g class="chip" transform="translate(214,100)" style="animation-delay:0.08s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#2496ED"/>
+    <text x="22" y="25" class="logo">DK</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Docker</text>
+  </g><g class="chip" transform="translate(404,100)" style="animation-delay:0.16s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#2563eb"/>
+    <text x="22" y="25" class="logo">CICD</text>
+    <text x="44" y="26" class="t" fill="#e8edff">CI/CD</text>
+  </g><g class="chip" transform="translate(594,100)" style="animation-delay:0.24s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#F37626"/>
+    <text x="22" y="25" class="logo">JUP</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Jupyter Notebook</text>
+  </g>
+  </g><g transform="translate(58,834)">
+    <rect width="1164" height="168" rx="18" class="card"/>
+    <text x="24" y="30" class="m" fill="#fbbf24">05 // DATA, ANALYTICS & BI</text>
+    <g class="chip" transform="translate(24,48)" style="animation-delay:0s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#150458"/>
+    <text x="22" y="25" class="logo">PD</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Pandas</text>
+  </g><g class="chip" transform="translate(214,48)" style="animation-delay:0.08s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#013243"/>
+    <text x="22" y="25" class="logo">NP</text>
+    <text x="44" y="26" class="t" fill="#e8edff">NumPy</text>
+  </g><g class="chip" transform="translate(404,48)" style="animation-delay:0.16s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#F7931E"/>
+    <text x="22" y="25" class="logo">SK</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Scikit-learn</text>
+  </g><g class="chip" transform="translate(594,48)" style="animation-delay:0.24s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#3b82f6"/>
+    <text x="22" y="25" class="logo">PL</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Plotly</text>
+  </g><g class="chip" transform="translate(784,48)" style="animation-delay:0.32s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#3776AB"/>
+    <text x="22" y="25" class="logo">MPL</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Matplotlib</text>
+  </g><g class="chip" transform="translate(974,48)" style="animation-delay:0.4s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#4c72b0"/>
+    <text x="22" y="25" class="logo">SB</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Seaborn</text>
+  </g><g class="chip" transform="translate(24,100)" style="animation-delay:0s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#5C3EE8"/>
+    <text x="22" y="25" class="logo">OCV</text>
+    <text x="44" y="26" class="t" fill="#e8edff">OpenCV</text>
+  </g><g class="chip" transform="translate(214,100)" style="animation-delay:0.08s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#F2C811"/>
+    <text x="22" y="25" class="logo">PBI</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Power BI</text>
+  </g><g class="chip" transform="translate(404,100)" style="animation-delay:0.16s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#217346"/>
+    <text x="22" y="25" class="logo">XL</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Microsoft Excel</text>
+  </g><g class="chip" transform="translate(594,100)" style="animation-delay:0.24s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#34A853"/>
+    <text x="22" y="25" class="logo">GS</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Google Sheets</text>
+  </g>
+  </g><g transform="translate(58,1018)">
+    <rect width="1164" height="116" rx="18" class="card"/>
+    <text x="24" y="30" class="m" fill="#22d3ee">06 // DATABASES & STORAGE</text>
+    <g class="chip" transform="translate(24,48)" style="animation-delay:0s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#47A248"/>
+    <text x="22" y="25" class="logo">MDB</text>
+    <text x="44" y="26" class="t" fill="#e8edff">MongoDB</text>
+  </g><g class="chip" transform="translate(214,48)" style="animation-delay:0.08s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#4169E1"/>
+    <text x="22" y="25" class="logo">PG</text>
+    <text x="44" y="26" class="t" fill="#e8edff">PostgreSQL</text>
+  </g><g class="chip" transform="translate(404,48)" style="animation-delay:0.16s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#00758F"/>
+    <text x="22" y="25" class="logo">MY</text>
+    <text x="44" y="26" class="t" fill="#e8edff">MySQL</text>
+  </g><g class="chip" transform="translate(594,48)" style="animation-delay:0.24s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#3ECF8E"/>
+    <text x="22" y="25" class="logo">SUP</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Supabase</text>
+  </g><g class="chip" transform="translate(784,48)" style="animation-delay:0.32s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#6E46AE"/>
+    <text x="22" y="25" class="logo">CH</text>
+    <text x="44" y="26" class="t" fill="#e8edff">ChromaDB</text>
+  </g><g class="chip" transform="translate(974,48)" style="animation-delay:0.4s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#FFCA28"/>
+    <text x="22" y="25" class="logo">FB</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Firebase</text>
+  </g>
+  </g><g transform="translate(58,1150)">
+    <rect width="1164" height="116" rx="18" class="card"/>
+    <text x="24" y="30" class="m" fill="#ec4899">07 // GENAI, LLM & RAG TOOLING</text>
+    <g class="chip" transform="translate(24,48)" style="animation-delay:0s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#F55036"/>
+    <text x="22" y="25" class="logo">GROQ</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Groq API</text>
+  </g><g class="chip" transform="translate(214,48)" style="animation-delay:0.08s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#0467DF"/>
+    <text x="22" y="25" class="logo">L33</text>
+    <text x="44" y="26" class="t" fill="#e8edff">LLaMA 3.3</text>
+  </g><g class="chip" transform="translate(404,48)" style="animation-delay:0.16s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#1C3C3C"/>
+    <text x="22" y="25" class="logo">LC</text>
+    <text x="44" y="26" class="t" fill="#e8edff">LangChain</text>
+  </g><g class="chip" transform="translate(594,48)" style="animation-delay:0.24s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#8B5CF6"/>
+    <text x="22" y="25" class="logo">RAG</text>
+    <text x="44" y="26" class="t" fill="#e8edff">RAG Pipelines</text>
+  </g><g class="chip" transform="translate(784,48)" style="animation-delay:0.32s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#7C3AED"/>
+    <text x="22" y="25" class="logo">PE</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Prompt Engineering</text>
+  </g><g class="chip" transform="translate(974,48)" style="animation-delay:0.4s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#FF4B4B"/>
+    <text x="22" y="25" class="logo">ST</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Streamlit</text>
+  </g>
+  </g><g transform="translate(58,1282)">
+    <rect width="1164" height="116" rx="18" class="card"/>
+    <text x="24" y="30" class="m" fill="#34d399">08 // CLOUD, DEPLOYMENT & PRODUCT TOOLS</text>
+    <g class="chip" transform="translate(24,48)" style="animation-delay:0s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#FF9900"/>
+    <text x="22" y="25" class="logo">AWS</text>
+    <text x="44" y="26" class="t" fill="#e8edff">AWS Cloud</text>
+  </g><g class="chip" transform="translate(214,48)" style="animation-delay:0.08s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#46E3B7"/>
+    <text x="22" y="25" class="logo">REN</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Render</text>
+  </g><g class="chip" transform="translate(404,48)" style="animation-delay:0.16s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#2496ED"/>
+    <text x="22" y="25" class="logo">DO</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Docker Deployment</text>
+  </g><g class="chip" transform="translate(594,48)" style="animation-delay:0.24s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#0b74de"/>
+    <text x="22" y="25" class="logo">RAZ</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Razorpay</text>
+  </g><g class="chip" transform="translate(784,48)" style="animation-delay:0.32s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#64748b"/>
+    <text x="22" y="25" class="logo">M3</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Chrome Manifest V3</text>
+  </g><g class="chip" transform="translate(974,48)" style="animation-delay:0.4s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#0ea5e9"/>
+    <text x="22" y="25" class="logo">API2</text>
+    <text x="44" y="26" class="t" fill="#e8edff">JSON APIs</text>
+  </g>
+  </g><g transform="translate(58,1414)">
+    <rect width="1164" height="116" rx="18" class="card"/>
+    <text x="24" y="30" class="m" fill="#60a5fa">09 // WEB & PLATFORM</text>
+    <g class="chip" transform="translate(24,48)" style="animation-delay:0s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#E34F26"/>
+    <text x="22" y="25" class="logo">HTML</text>
+    <text x="44" y="26" class="t" fill="#e8edff">HTML</text>
+  </g><g class="chip" transform="translate(214,48)" style="animation-delay:0.08s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#1572B6"/>
+    <text x="22" y="25" class="logo">CSS</text>
+    <text x="44" y="26" class="t" fill="#e8edff">CSS</text>
+  </g><g class="chip" transform="translate(404,48)" style="animation-delay:0.16s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#4285F4"/>
+    <text x="22" y="25" class="logo">CE</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Chrome Extension API</text>
+  </g><g class="chip" transform="translate(594,48)" style="animation-delay:0.24s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#8b5cf6"/>
+    <text x="22" y="25" class="logo">AUTH</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Authentication</text>
+  </g><g class="chip" transform="translate(784,48)" style="animation-delay:0.32s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#14b8a6"/>
+    <text x="22" y="25" class="logo">ETL</text>
+    <text x="44" y="26" class="t" fill="#e8edff">ETL Workflows</text>
+  </g><g class="chip" transform="translate(974,48)" style="animation-delay:0.4s">
+    <rect width="178" height="42" rx="12" fill="#10182a" stroke="#202a40"/>
+    <circle cx="22" cy="21" r="14" fill="#22c55e"/>
+    <text x="22" y="25" class="logo">AUTO2</text>
+    <text x="44" y="26" class="t" fill="#e8edff">Automation</text>
+  </g>
+  </g>
 </svg>
