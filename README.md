@@ -23,7 +23,7 @@
 - Current repository audit: **3 stars** and **0 forks** across the public repositories checked today.
 - Coding baseline from the latest resume: **600+ DSA problems** and **1700+ peak LeetCode rating**.
 - The LeetCode section now includes a **365-day heatmap**, solved count, difficulty breakdown and contest telemetry; the workflow refreshes it from the public LeetCode GraphQL profile.
-- GitHub's contribution calendar is based on GitHub's contribution data rather than manually drawn activity. urlGitHub contribution documentationhttps://docs.github.com/en/account-and-profile/reference/profile-contributions-reference
+- GitHub's contribution calendar is based on GitHub's contribution data rather than manually drawn activity. [GitHub contribution documentation](https://docs.github.com/en/account-and-profile/reference/profile-contributions-reference)
 
 ## 🧰 Industry Stack
 
